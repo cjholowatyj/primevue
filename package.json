@@ -1,6 +1,7 @@
 {
     "name": "primevue",
     "version": "3.44.0-SNAPSHOT",
+    "type": "module",
     "homepage": "https://primevue.org/",
     "repository": {
         "type": "git",
